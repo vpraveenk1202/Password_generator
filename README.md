@@ -42,10 +42,7 @@ A powerful and user-friendly **React-based password generator** with advanced fe
 ## 📸 Screenshots
 
 ### Main Interface
-![App Preview](screenshots/app-preview.png)
-
-### Password History
-![History View](screenshots/history-view.png)
+![App Preview](screenshots/preview.png)
 
 ## 🛠️ Tech Stack
 
