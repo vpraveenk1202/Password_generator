@@ -65,7 +65,7 @@ A powerful and user-friendly **React-based password generator** with advanced fe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-generator.git
+   git clone https://github.com/vpraveenk1202/password-generator.git
    cd password-generator
    ```
 
